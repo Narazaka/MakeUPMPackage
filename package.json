@@ -2,7 +2,7 @@
   "name": "net.narazaka.unity.make-upm-package",
   "version": "1.0.0",
   "displayName": "MakeUPMPackage",
-  "description": "MakeUPMPackage",
+  "description": "Narazakaが個人用に作ったUPMパッケージのGitリポジトリとかを雑に作るやつ",
   "author": {
     "name": "Narazaka",
     "url": "https://github.com/Narazaka"
@@ -10,8 +10,5 @@
   "license": "Zlib",
   "type": "tool",
   "url" : "https://github.com/Narazaka/MakeUPMPackage.git",
-  "unity": "2022.3",
-  "vpmDependencies": {
-    "com.vrchat.worlds": ">=3.7.4"
-  }
+  "unity": "2019.4"
 }
